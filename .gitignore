@@ -1,0 +1,7 @@
+# Ignorar el dataset y los recursos pesados
+dataset_manos.csv
+resources/
+
+# (Opcional) Archivos de PyCharm que no se suelen subir
+.idea/
+__pycache__/
